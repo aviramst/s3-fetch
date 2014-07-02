@@ -1,3 +1,3 @@
-var FetchS3 = require('./lib/FetchS3.js');
+var S3Fetch = require('./lib/S3Fetch.js');
 
-module.exports = FetchS3;
+module.exports = S3Fetch;
